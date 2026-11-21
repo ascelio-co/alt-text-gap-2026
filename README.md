@@ -12,6 +12,10 @@ Also in this sample: 225 images shared their alt text with two or more other ima
 sentence on six colourways), 22 used filenames, 39 said "Image" or "Image unavailable", 98 were over 125
 characters, 69 repeated a word three or more times, and 1,317 had nothing wrong at all.
 
+**Product pages, measured 21 November 2026:** 19 product pages, 885 images, 353 without a text alternative (40%),
+of which 306 were empty attributes and 47 absent. Median store: 50% of product-page images undescribed.
+That is worse than the homepages. File: [`alt-text-on-product-pages-2026.csv`](alt-text-on-product-pages-2026.csv).
+
 ## The data
 
 [`alt-text-gap-2026.csv`](alt-text-gap-2026.csv) — one row per homepage:
